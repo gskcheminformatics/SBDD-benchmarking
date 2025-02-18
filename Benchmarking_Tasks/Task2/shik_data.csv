@@ -1,0 +1,14 @@
+canonical_smiles,pchembl_value_mean,pchembl_value_stddev,target
+COc1cc(C=O)ccc1OCc1ccccc1COc1ccc(/C=C2/SC(=S)NC2=O)cc1OC,5.15,0.16248076809271922,Shik kinase
+COc1cccc(CO[C@@H]2CC(C(=O)O)=C[C@@H](O)[C@H]2O)c1,6.0,,Shik kinase
+Cc1ccc(CO[C@@H]2CC(C(=O)O)=C[C@@H](O)[C@H]2O)cc1,4.96,,Shik kinase
+Cc1cccc(CO[C@@H]2CC(C(=O)O)=C[C@@H](O)[C@H]2O)c1,5.68,,Shik kinase
+O=C(O)C1=C[C@@H](O)[C@@H](O)[C@H](OCc2ccc3ccccc3c2)C1,5.75,,Shik kinase
+O=C(O)C1=C[C@@H](O)[C@@H](O)[C@H](OCc2ccc3sccc3c2)C1,6.25,,Shik kinase
+O=C(O)C1=C[C@@H](O)[C@@H](O)[C@H](OCc2cccc(F)c2)C1,5.89,,Shik kinase
+O=C(O)C1=C[C@@H](O)[C@@H](O)[C@H](OCc2ccccc2)C1,5.52,,Shik kinase
+O=C(O)C1=C[C@@H](O)[C@@H](O)[C@H](n2cc(COc3ccccc3)nn2)C1,4.17,,Shik kinase
+O=C(O)C1=C[C@@H](O)[C@@H](O)[C@H](n2cc(Cc3ccccc3)nn2)C1,4.02,,Shik kinase
+O=C([O-])C1=C[C@@H](O)[C@@H](O)[C@H](OCc2c(F)c(F)c(F)c(F)c2F)C1.[Na+],4.39,,Shik kinase
+O=C([O-])C1=C[C@@H](O)[C@@H](O)[C@H](OCc2cccc([N+](=O)[O-])c2)C1.[Na+],6.34,,Shik kinase
+O=C1NN(c2ccc(Cl)c(Cl)c2)C(=O)/C1=C\c1ccc(-c2ccc(Br)cc2C(=O)O)o1,5.345000000000001,0.25199206336708335,Shik kinase

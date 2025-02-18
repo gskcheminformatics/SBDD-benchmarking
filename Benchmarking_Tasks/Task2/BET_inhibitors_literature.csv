@@ -1,0 +1,12 @@
+﻿Compound,SMILES,PDB ,Ligand ID,Rationale
+JQ1,Cc1c(sc-2c1C(=N[C@H](c3[n+]2c(n[nH]3)C)CC(=O)OC(C)(C)C)c4ccc(cc4)Cl)C,"3MXF, 3ONI, 3S91, 3S92, 4FLP, 4QZS, 8F5Y",JQ1,Highest affinity to BRD4 for both BD1 and BD2. Poor pharmacokinetic profile and low oral bioavailability
+I-BET762,CCNC(C[C@@H]1N=C(C2=CC(OC)=CC=C2N3C(C)=NN=C13)C4=CC=C(C=C4)Cl)=O,"2YEK, 3P5O, 5DFC, 7AQT",EAM,Similar to JQ1 and is orally bioavailable. Adverse toxicity in trials
+OTX015,O=C(NC(C=C1)=CC=C1O)C[C@H]2C3=NN=C(C)N3C(SC(C)=C4C)=C4C(C5=CC=C(Cl)C=C5)=N2,5WMD,6JE,"Structurally like JQ1. Inhibits BRD2, BRD3, and BRD4.  Adverse toxicity in trials"
+I-BET151,C[C@@H](N1C(C(C=C(OC)C(C2=C(C)ON=C2C)=C3)=C3N=C4)=C4NC1=O)C5=CC=CC=N5,"3ZYU, 4ALG, 4PKL",1GH,
+RVX-208,COC1=CC(OC)=C(C(NC(C2=CC(C)=C(OCCO)C(C)=C2)=N3)=O)C3=C1,"4J1P, 4J3I, 4MR3, 4MR4, 4MR5, 4MR6",1K0,BD2 selective for BRD2 and BRD3
+MS417,O=C(OC)C[C@H]1C2=NN=C(C)N2C3=C(C(C)=C(C)S3)C(C4=CC=C(Cl)C=C4)=N1,"4F3I, 5UEU, 6DUV",0S6,Binds to both BD1 and BD2 of BRD4
+ABBV-075,CCS(=O)(NC1=CC=C(OC2=CC=C(F)C=C2F)C(C3=CN(C)C(C4=C3C=CN4)=O)=C1)=O,5UVW,8NG,"Pan-BET inhibitor for BRD2, BRD4, and BRDT"
+ABBV-744,CC(O)(C)C1=CC(C(C2=C3NC(C(NCC)=O)=C2)=CN(C)C3=O)=C(OC4=C(C)C=C(F)C=C4C)C=C1,"6E6J, 6ONY",HWV,"Selective for BD2 of BRD2, BRD3, and BRD4"
+SJ432,C1(N[C@H]2C3=CC(C4C=CNN=4)=CC=C3N(C(C)=O)[C@H](C2)C)C=CC(=CC=1)C#N,"6DDI, 6DDJ",G7V,Selective for BD2
+AZD5153,O=C3N(C)CCN(CCOC4=CC=C(C5CCN(C6=NN7C(C=C6)=NN=C7OC)CC5)C=C4)[C@@H]3C,5KHM,XNH,Bivalent inhibitor which simultaneously interacts with BD1 and BD2 for BRD4
+INCB054329,CC1=C(C(=NO1)C)C2=C3C4=C(C=C2)NC(=O)N4C(CO3)C5=CC=CC=N5,,,
